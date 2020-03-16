@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Minesweeper
+
+Initializes a minesweeper board given the number of rows, columns, and mines.
 
 ## Available Scripts
 
