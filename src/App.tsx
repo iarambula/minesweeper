@@ -70,7 +70,7 @@ function App() {
           <button type="submit">Regenerate</button>
         </div>
       </form>
-      <div>
+      <div className="board">
         {
           board.map((row) => (
             <div className="row">
